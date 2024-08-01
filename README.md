@@ -10,10 +10,10 @@ Finding free and paid accounts of websites in the data collected by Stealer usin
 
 # install packages & librarys
 <code>
-  # by npm
+  <b># by npm</b>
   npm install
 
-  # by yarn
+  <b># by yarn</b>
   yarn install
 </code>
 
