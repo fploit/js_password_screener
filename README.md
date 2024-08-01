@@ -4,5 +4,27 @@ Finding free and paid accounts of websites in the data collected by Stealer usin
 <img src="./banner1.png" style="width: 50%" />
 
 
-# Cloan
+# Clone
 <code>git clone https://github.com/fploit/js_password_screener.git</code>
+
+
+# install packages & librarys
+<code>
+  # by npm
+  npm install
+
+  # by yarn
+  yarn install
+</code>
+
+# Run & Build
+<code>
+  # run dev
+  npm run dev
+
+  # build
+  npm run build
+
+  # start
+  npm start
+</code>
