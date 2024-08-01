@@ -9,13 +9,13 @@ Finding free and paid accounts of websites in the data collected by Stealer usin
 
 
 # install packages & librarys
-<code>
-  <b># by npm</b>
-  npm install
+```sh
+# using npm
+npm install
 
-  <b># by yarn</b>
-  yarn install
-</code>
+# using yarn
+yarn install
+```
 
 # Run & Build
 <code>
