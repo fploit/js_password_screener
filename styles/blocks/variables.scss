@@ -1,0 +1,36 @@
+// styles/variables.scss
+:root {
+  --secondary: #ff6f61;
+  --background: #ffffff;
+  --secondary-bright: #ff8a80;
+  --primary-dark: #37474f;
+  --primary: #0277bd;
+  --primary-bright: #58a5f0;
+  --table-bg: var(--background);
+  --table-text: var(--secondary);
+  --table-header-bg: var(--primary);
+  --table-header-text: var(--background);
+  --input-bg: var(--background);
+  --input-text: var(--secondary);
+  --input-border: var(--primary-dark);
+  --input-hover-bg: var(--primary-bright);
+  --input-focus-border: var(--primary);
+}
+
+[data-theme="dark"] {
+  --secondary: #ff8a80;
+  --background: #121212;
+  --secondary-bright: #ff9e9e;
+  --primary-dark: #002f6c;
+  --primary: #c2d0e4;
+  --primary-bright: #bbbcfb;
+  --table-bg: var(--secondary);
+  --table-text: var(--background);
+  --table-header-bg: var(--primary-dark);
+  --table-header-text: var(--background);
+  --input-bg: var(--secondary);
+  --input-text: var(--background);
+  --input-border: var(--primary);
+  --input-hover-bg: var(--primary-dark);
+  --input-focus-border: var(--primary-bright);
+}

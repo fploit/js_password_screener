@@ -1,0 +1,27 @@
+{
+	"intro": {
+		"start": "Hello, my name is Password Screener",
+		"end": "const Data = {'url': 'https://website.com/', 'username': 'admin', 'password': '1234@5'}",
+		"speed": 60,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 12000
+	},
+
+	"header": {
+		"name": "Password",
+		"usp": "Screener..."
+	},
+
+	"paragraph": "This is a source of information to search for different free and non-free accounts on different websites.",
+
+	"buttons": {
+		"primary": {
+			"title": "Start Search",
+			"url": "#search",
+			"leaveSite": false
+		}
+	}
+}
